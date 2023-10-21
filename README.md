@@ -10,6 +10,6 @@ ___
 
 ___
 **컴퓨터 네트워크**  
-[osi 7계층](https://github.com/Gamchachip/2023-2-2/blob/main/network/osi7%EA%B3%84%EC%B8%B5)
+[osi 7계층](https://github.com/Gamchachip/2023-2-2/blob/main/network/osi7%EA%B3%84%EC%B8%B5.md)
 ___
 **한자**
